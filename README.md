@@ -1,6 +1,5 @@
-=== Plugin Name ===
-Contributors: username1, username2 (this should be a list of wordpress.org userid's)
-Donate link: http://example.com/
+=== Kayako2Worpress ===
+Contributors: sierag
 Tags: comments, spam
 Requires at least: 3.3.1
 Tested up to: 3.3.1
