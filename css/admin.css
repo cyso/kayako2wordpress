@@ -1,1 +1,9 @@
-/* This stylesheet is used to style the admin option form of the plugin. */
+#icon-edit.icon32{
+background: url(http://www.kayako.com/images/icons/ss.png) no-repeat left;
+background-position: 0 -416px!important;
+overflow: hidden;
+display: block;
+height: 32px!important;
+width: 32px!important;
+line-height: 32px!important;
+}
