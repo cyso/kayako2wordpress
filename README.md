@@ -28,14 +28,21 @@ Installation
 
 Screenshots 
 -----------
+Screenshot of basic activation within the plugins menu.
+
 ![Plugin Activation](https://raw.github.com/Cysource/kayako2wordpress/master/img/activate.png)
-![Plugin Activation](https://raw.github.com/Cysource/kayako2wordpress/master/img/action.png)
+
+This is the settings page, ony for admins.
+
 ![Plugin Activation](https://raw.github.com/Cysource/kayako2wordpress/master/img/addsettings.png)
-![Plugin Activation](https://raw.github.com/Cysource/kayako2wordpress/master/img/table.png)
+
+Here you can see that you can edit a ticket, ony small details can be changed.
+
+![Plugin Activation](https://raw.github.com/Cysource/kayako2wordpress/master/img/action.png)
+
 
 Resources Used
 ===============
 * [Kayako PHP API Library v.1.1.1.](http://forge.kayako.com/projects/kayako-php-api-library)
-* [Flot](https://github.com/flot/flot)
 
 [![endorse](http://api.coderwall.com/sierag/endorsecount.png)](http://coderwall.com/sierag)
