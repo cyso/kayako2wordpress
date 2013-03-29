@@ -28,10 +28,10 @@ Installation
 
 Screenshots 
 -----------
-![Plugin Activation](http://github.com/cysource/kayako2wordpress/img/activate.png)
-![Plugin Activation](http://github.com/cysource/kayako2wordpress/img/action.png)
-![Plugin Activation](http://github.com/cysource/kayako2wordpress/img/addsettings.png)
-![Plugin Activation](http://github.com/cysource/kayako2wordpress/img/table.png)
+![Plugin Activation](https://raw.github.com/Cysource/kayako2wordpress/master/img/activate.png)
+![Plugin Activation](https://raw.github.com/Cysource/kayako2wordpress/master/img/action.png)
+![Plugin Activation](https://raw.github.com/Cysource/kayako2wordpress/master/img/addsettings.png)
+![Plugin Activation](https://raw.github.com/Cysource/kayako2wordpress/master/img/table.png)
 
 Resources Used
 ===============
