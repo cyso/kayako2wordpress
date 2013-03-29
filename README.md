@@ -22,11 +22,20 @@ In both cases you will be able to remove the tags or add new ones so you can tra
 Installation
 ------------
 
-1. Upload Kayako2Wordpress directory to the `/wp-content/plugins/` directory
+1. Upload Kayako2Wordpress directory to the `/wp-content/plugins/` directory. Or if you would like to use git go to `/wp-content/plugins/` and `git clone https://github.com/Cysource/kayako2wordpress.git` and your done.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Make sure you insert the right settings in the settingsmenu.
 
 Screenshots 
 -----------
+![Plugin Activation](http://github.com/cysource/kayako2wordpress/img/activate.png)
+![Plugin Activation](http://github.com/cysource/kayako2wordpress/img/action.png)
+![Plugin Activation](http://github.com/cysource/kayako2wordpress/img/addsettings.png)
+![Plugin Activation](http://github.com/cysource/kayako2wordpress/img/table.png)
 
+Resources Used
+===============
+* [Kayako PHP API Library v.1.1.1.](http://forge.kayako.com/projects/kayako-php-api-library)
+* [Flot](https://github.com/flot/flot)
 
+[![endorse](http://api.coderwall.com/sierag/endorsecount.png)](http://coderwall.com/sierag)
